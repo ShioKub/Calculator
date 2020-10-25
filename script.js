@@ -41,7 +41,7 @@ class Calculator {
                 result = previous - current;
                 break;
             case '*':
-                result = previous - current;
+                result = previous * current;
                 break;
             case '÷':
                 result = previous / current;
